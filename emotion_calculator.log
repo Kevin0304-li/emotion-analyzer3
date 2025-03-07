@@ -1,0 +1,21 @@
+2025-03-07 16:01:25,756 - emotion_calculator - INFO - Processing input: 'I'm going to kill you' with relationship=friend
+2025-03-07 16:02:51,140 - emotion_calculator - INFO - Processing input: 'I'm going to kill you' with relationship=friend
+2025-03-07 16:02:51,148 - emotion_calculator - INFO - Determined context: friend with confidence 0.90
+2025-03-07 16:02:51,149 - emotion_calculator - INFO - Top emotions: Surprised 31.98%, Amused 25.73%, Confused 20.42%
+2025-03-07 16:03:17,058 - emotion_calculator - INFO - Processing input: 'I'm going to kill you' with relationship=enemy
+2025-03-07 16:03:17,074 - emotion_calculator - INFO - Determined context: enemy with confidence 0.90
+2025-03-07 16:03:17,075 - emotion_calculator - INFO - Top emotions: Afraid 42.88%, Angry 30.30%, Nervous 16.70%
+2025-03-07 16:04:57,669 - emotion_calculator - INFO - Processing input: 'Thank you so much for your help, you're amazing!' with relationship=friend
+2025-03-07 16:04:57,678 - emotion_calculator - INFO - Determined context: friend with confidence 0.90
+2025-03-07 16:04:57,679 - emotion_calculator - INFO - Top emotions: Happy 28.69%, Grateful 28.69%, Excited 18.36%
+2025-03-07 16:31:28,130 - emotion_calculator - INFO - Processing input: 'I'm going to kill you' with relationship=friend
+2025-03-07 16:31:28,137 - emotion_calculator - INFO - Determined context: friend with confidence 0.90
+2025-03-07 16:31:28,137 - emotion_calculator - INFO - Top emotions: Surprised 31.98%, Amused 25.73%, Confused 20.42%
+2025-03-07 16:32:06,515 - emotion_calculator - INFO - Processing input: 'I want to kill you' with relationship=friend
+2025-03-07 16:32:06,527 - emotion_calculator - INFO - Determined context: friend with confidence 0.90
+2025-03-07 16:32:06,527 - emotion_calculator - INFO - Emotions adjusted based on learning
+2025-03-07 16:32:06,527 - emotion_calculator - INFO - Top emotions: Surprised 45.96%, Amused 32.71%, Confused 21.33%
+2025-03-07 16:32:19,532 - emotion_calculator - INFO - Processing input: 'hi' with relationship=friend
+2025-03-07 16:32:19,540 - emotion_calculator - INFO - Determined context: friend with confidence 0.90
+2025-03-07 16:32:19,544 - emotion_calculator - INFO - Emotions adjusted based on learning
+2025-03-07 16:32:19,544 - emotion_calculator - INFO - Top emotions: Loving 9.70%, Amused 9.05%, Happy 8.41%
